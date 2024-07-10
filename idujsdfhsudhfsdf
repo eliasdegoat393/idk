@@ -4811,3 +4811,4 @@
 		setmetatable(configloader, configloaders)
 		return configloader 
 	end
+return library
